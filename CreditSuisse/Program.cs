@@ -19,6 +19,3 @@ for (int i = 0; i < _numberTrage; i++)
     var trade = Console.ReadLine()?.Split(' ');
     Console.WriteLine("Next trade");
 }
-
-Severity Code	Description	Project	File	Line	Suppression State
-Error	CS0116	A namespace cannot directly contain members such as fields, methods or statements CreditSuisse    C:\Users\bruno\source\repos\CreditSuisse\CreditSuisse\Program.cs	3	Active
