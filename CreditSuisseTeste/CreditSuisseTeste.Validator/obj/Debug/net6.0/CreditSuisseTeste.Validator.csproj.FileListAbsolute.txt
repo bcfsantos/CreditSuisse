@@ -1,0 +1,15 @@
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\bin\Debug\net6.0\CreditSuisseTeste.Validator.deps.json
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\bin\Debug\net6.0\CreditSuisseTeste.Validator.dll
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\bin\Debug\net6.0\CreditSuisseTeste.Validator.pdb
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\bin\Debug\net6.0\CreditSuisseTeste.Common.dll
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\bin\Debug\net6.0\CreditSuisseTeste.Common.pdb
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\obj\Debug\net6.0\CreditSuisseTeste.Validator.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\obj\Debug\net6.0\CreditSuisseTeste.Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\obj\Debug\net6.0\CreditSuisseTeste.Validator.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\obj\Debug\net6.0\CreditSuisseTeste.Validator.AssemblyInfo.cs
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\obj\Debug\net6.0\CreditSuisseTeste.Validator.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\obj\Debug\net6.0\CreditSuisseTeste.Validator.csproj.CopyComplete
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\obj\Debug\net6.0\CreditSuisseTeste.Validator.dll
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\obj\Debug\net6.0\refint\CreditSuisseTeste.Validator.dll
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\obj\Debug\net6.0\CreditSuisseTeste.Validator.pdb
+C:\Users\bruno\source\repos\CreditSuisse\CreditSuisseTeste\CreditSuisseTeste.Validator\obj\Debug\net6.0\ref\CreditSuisseTeste.Validator.dll

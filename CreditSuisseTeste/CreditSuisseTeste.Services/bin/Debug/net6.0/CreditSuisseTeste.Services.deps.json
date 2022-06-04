@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CreditSuisseTeste.Services/1.0.0": {
+        "dependencies": {
+          "CreditSuisseTeste.Domain": "1.0.0",
+          "CreditSuisseTeste.Validator": "1.0.0"
+        },
+        "runtime": {
+          "CreditSuisseTeste.Services.dll": {}
+        }
+      },
+      "CreditSuisseTeste.Common/1.0.0": {
+        "runtime": {
+          "CreditSuisseTeste.Common.dll": {}
+        }
+      },
+      "CreditSuisseTeste.Domain/1.0.0": {
+        "dependencies": {
+          "CreditSuisseTeste.Validator": "1.0.0"
+        },
+        "runtime": {
+          "CreditSuisseTeste.Domain.dll": {}
+        }
+      },
+      "CreditSuisseTeste.Validator/1.0.0": {
+        "dependencies": {
+          "CreditSuisseTeste.Common": "1.0.0"
+        },
+        "runtime": {
+          "CreditSuisseTeste.Validator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreditSuisseTeste.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreditSuisseTeste.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreditSuisseTeste.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreditSuisseTeste.Validator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

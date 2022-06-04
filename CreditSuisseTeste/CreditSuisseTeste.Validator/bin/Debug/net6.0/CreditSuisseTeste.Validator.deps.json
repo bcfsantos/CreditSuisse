@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CreditSuisseTeste.Validator/1.0.0": {
+        "dependencies": {
+          "CreditSuisseTeste.Common": "1.0.0"
+        },
+        "runtime": {
+          "CreditSuisseTeste.Validator.dll": {}
+        }
+      },
+      "CreditSuisseTeste.Common/1.0.0": {
+        "runtime": {
+          "CreditSuisseTeste.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreditSuisseTeste.Validator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreditSuisseTeste.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
