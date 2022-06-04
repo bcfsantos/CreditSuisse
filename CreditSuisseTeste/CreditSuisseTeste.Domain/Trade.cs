@@ -30,6 +30,12 @@
             get => _nextPaymentDate;
             set => _nextPaymentDate = value;
         }
+        bool _isPoliticallyExposed = false;
+        public bool IsPoliticallyExposed
+        {
+            get => _isPoliticallyExposed;
+            set => _isPoliticallyExposed = value;
+        }
 
         public Trade GetTrade(string itemTrade)
         {

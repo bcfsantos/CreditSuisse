@@ -6,6 +6,6 @@
         string ClientSector { get; }
         DateTime NextPaymentDate { get; }
         Trade GetTrade(string itemTrade);
-
+        bool IsPoliticallyExposed { get; }
     }
 }

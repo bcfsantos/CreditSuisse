@@ -10,12 +10,6 @@ namespace CreditSuisseTeste.Services
         {
             _tradeMediumRisk = tradeMediumRisk;
         }
-        public string isMediumRisk(string tradeMediumRisk)
-        {
-            var trade = _tradeMediumRisk.GetTrade(tradeMediumRisk);
-            var isMediumRisk = trade.NextPaymentDate.Subtract(trade.NextPaymentDate).TotalDays > 30;
-            return isMediumRisk ? this.GetType().Name : String.Empty;
-        }
         public IList<string> isMediumRisk(IList<string> listTradeMediumRisk)
         {
             var listMediumRisk = new List<string>();
